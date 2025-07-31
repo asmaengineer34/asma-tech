@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Asma Igalee
+# 👋 Hi there, I'm Asma Abukar
 
 💻 **Software Engineer** | 🎨 **UI Designer**  
 🌍 Based in Uganda | 💡 Passionate about clean code & beautiful design
