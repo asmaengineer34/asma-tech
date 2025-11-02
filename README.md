@@ -50,7 +50,6 @@ Here are a few highlights of what I’ve been working on:
 ## 📫 Let's Connect
 
 - 📧 Email: azumaigalle@gmail.com 
--   
 - 💼 LinkedIn: [linkedin.com/in/asmaigalee](#)
 
 ---
