@@ -50,7 +50,7 @@ Here are a few highlights of what I’ve been working on:
 ## 📫 Let's Connect
 
 - 📧 Email: azumaigalle@gmail.com 
-- 🌐 Portfolio: [www.asmakodes.com](https://www.asmakodes.com) *(if you have one)*  
+-   
 - 💼 LinkedIn: [linkedin.com/in/asmaigalee](#)
 
 ---
